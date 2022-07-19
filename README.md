@@ -17,7 +17,6 @@
   <img align="center" alt="kaioso20-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="kaioso20-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="kaioso20-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="kaioso20-gif" height="150" style="border-radius:50px;" src="https://lh3.googleusercontent.com/0l0SO2XXlrKr0nM6_zg8V9nCVnkkshY-2Ih0rKnyvM3zJWDbHpLvg5qHG5BfRKrvoIHE5VfCX-TQM987ckQh6AxQbAG8kHHtobQu7A0pcZg4XJby4jieUvNjgw1gaMmgyMufVsMiZAJv7nOY2aEErF9vI3Hqv3o5v9G28EZnykhT_XFWIbnBwpF6RtUyKFYvRBeM4Ed3pFruWwKzAgslq_7lwl0pTtT4j-qG6xqiJwksN2z1ndaJSe4mnzWkquMLv1rveYiz6KibkuvijclxyYk-mu1PYtB6HQllVJnn57e5JcuhxbqabDaUqKW2Vl63YEbc99MwS0E2DGNoKAXL0V83GceLCa2dVg-qfywM4giKEvuEOYHqV1K6lwwr_cFk7rPfar4_yFmrbd3hvlpzmzokQJrf4PB0Mo1kXJyXyw5-OnlL5pZBJI9ldsowRLFm1BkwpaWwEKtx8dThTDbgI7IfbJz7-rNOHWWMx6WxSd9bZb8nvJQKIesYd3jBsmL2-4sXuJ6SHb6PsUHN-xkw-UGVX8floEmlWYhB0wtR7vUAIPtVLwPA2DCvSzL6zFrIsPANFWRsmonee1-_XngzhZB4KSj45It1chlO3pwTXXOvwFVFxGrlN4aeJ4NA0M0vjxWeFyf4HSwFwsg_eq3l5Le_ncECFCjumxArlwGq3EXhGkRDDPwUZDn_S5VizBckfllszPPZrbi61cnXeglVQ2dGU9u0PIVmDqbulhe-o98nsGA-9ow-Ao0tHaSe-XQCi1Tp0lKN6e8nr1H0_7aBE_eXhGcZc7llMSKy=s512-no?authuser=1">
   
 </div>
   
