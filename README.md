@@ -1,6 +1,6 @@
 ### Hi visitor! Be welcome at my perfil 😄
 
-- 💻 Working at: Digisystem / Alelo Brasil
+- 💻 Working at: Digisystem / Alelo
 - 🖥 Working with language: JavaScript using Node.js
 - &nbsp;📍 &nbsp;Livin in: Curitiba - Paraná - Brazil
 - 👦🏻 Pronouns : (ele/dele/he/his)
